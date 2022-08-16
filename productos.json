@@ -1,0 +1,26 @@
+[
+    {
+        "titulo" : "Cafe con leche",
+        "precio" : "$500",
+        "tamaño" : "Grande",
+        "img" : "cafe.jpg"
+    },
+    {
+        "titulo" : "Cafe Doble",
+        "precio" : "$450",
+        "tamaño" : "Grande",
+        "img" : "cafe.jpg"
+    },
+    {
+        "titulo" : "Cortado",
+        "precio" : "$400",
+        "tamaño" : "Mediano",
+        "img" : "cafe.jpg"
+    },
+    {
+        "titulo" : "Cafe",
+        "precio" : "$350",
+        "tamaño" : "Chico",
+        "img" : "cafe.jpg"
+    }
+]
